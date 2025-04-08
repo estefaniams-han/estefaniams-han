@@ -21,7 +21,4 @@ Hi there 👋 I'm Estefania Marmolejo — but you can call me Tefi!<br><br>I'm a
 ---
 [![](https://visitcount.itsvg.in/api?id=estefaniams-han&icon=1&color=1)](https://visitcount.itsvg.in)
 
-📫 *Let's connect!*<br>Feel free to reach out, collaborate, or just say hi!
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
