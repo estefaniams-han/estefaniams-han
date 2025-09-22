@@ -1,67 +1,136 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWdobnd5eWs4aWJ3cHE4eDI2d3Q2dXpuZmxveGY4cjN5NXlxMTlhdCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/cBBFPp83IZ3B6/giphy.gif" alt="hello-gif" width="600" />
+  
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=40&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=80&lines=🌸✨+Welcome+to+my+Digital+Garden+✨🌸" alt="animated title" />
+  </a>
+</h1>
+
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdrcGwyNTM3YjRpZmV5aGcydjFucnFkcDkxZXJmeTd2MWE4b3YxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkNzghqF5ZKK0KLbTJ/giphy.gif" width="500" alt="sparkly-gif"/>  
+
 </div>
 
+---
 
 <div align="center">
 
-# 💫 About Me
+## 💫 About Me  
+![Love Code](https://img.shields.io/badge/💖-Love_Code-ff69b4?style=for-the-badge)   ![Coffee Powered](https://img.shields.io/badge/☕-Coffee_Powered-9b6bce?style=for-the-badge)  ![Always Learning](https://img.shields.io/badge/📚-Always_Learning-f28b82?style=for-the-badge)
 
-Hi there 👋 I'm **Estefania Marmolejo** — but you can call me **Tefi**!
 
-I'm a *Computer Systems Engineer* currently working as a *Data Engineer*.  
-I’m passionate about everything related to tech — especially *Applied AI*, *Data Science*, and *Machine Learning*.
+Hi! I’m **Estefania Marmolejo** — but everyone calls me **Tefi** 💕  
 
-Right now, I'm on the path to pursue a **Master’s degree in Applied Artificial Intelligence** — because I truly believe in the power of AI to drive meaningful change in the world.
+👩‍💻 *Computer Systems Engineer* turned into an **AI Engineer**  
+🌈 Passionate about **Applied AI**, **Machine Learning**, and **Cloud Tech**  
+📚 Currently preparing for a **Master’s in Applied Artificial Intelligence**  
+💡 Believer that tech (and especially AI) can make the world a better place ✨  
 
 </div>
 
 ---
 
-## 💡 What I’m Into
+## 🌟 What I Love Playing With  
 
-- 🔧 Building scalable data pipelines  
-- ☁️ Working with cloud platforms (Azure, AWS, GCP)  
-- 🤖 Experimenting with ML models and AI applications  
-- 🧠 Learning something new every day  
-
----
-
-## 🎯 Main Focus Areas
-
-- 📊 Data Engineering  
-- 🤖 Machine Learning  
-- ☁️ Cloud Computing  
-- 🧱 System Architecture  
+- 🤖 **AI & ML** → building LLM-powered apps, experimenting with models  
+- ☁️ **Cloud Tech** → Azure ☁️ AWS ☁️ GCP  
+- 🧩 **Data + AI Pipelines** → scalable, robust, fun-to-build 💜  
+- 🎨 **Creative Tech** → blending code with art (design, drawing, music)  
 
 ---
 
-## 🎨 A Little About Me Outside of Code
+## 🎯 Main Focus Areas  
 
-- 🎸 I play guitar (always down to jam!)  
-- ✏️ I love drawing and getting creative  
-- 🏃‍♀️ Going out for a run clears my mind
+- 🤖 Artificial Intelligence & Machine Learning  
+- 📊 Data Engineering + MLOps  
+- ☁️ Cloud & System Architecture  
+- 🧠 Applied AI in **health & social good**  
+
+---
+
+<div align="center">
+
+# 🎨 Outside the Code  
+
+🎸 Playing guitar (always down to jam!)  
+✏️ Drawing + exploring creativity  
+🏃‍♀️ Running clears my mind  
+🌸 Lover of languages, cultures, and sparkly things ✨  
+
+</div>
 
 ---
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 💻 Tech Stack  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=estefaniams-han&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=estefaniams-han&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=estefaniams-han&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=estefaniams-han&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=estefaniams-han&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,azure,aws,gcp,postgres,mongodb,git,github,docker,vscode&perline=6" />
+</p>  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=estefaniams-han&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats  
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=estefaniams-han&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)<br/>  
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=estefaniams-han&theme=radical&hide_border=false&background=904e95&currStreakLabel=fff&sideLabels=fff)  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=estefaniams-han&theme=radical&layout=compact&hide_border=false&bg_color=30,43cea2,185a9d&title_color=fff&text_color=fff)  
+
+</div>
+
+---
+
+## 🐍 Commit Snake  
+![snake gif](https://github.com/estefaniams-han/estefaniams-han/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🏆 GitHub Trophies  
+
+![](https://github-profile-trophy.vercel.app/?username=estefaniams-han&theme=radical&no-frame=false&margin-w=8)
+
+---
+
+## 📈 Activity Graph  
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=estefaniams-han&area=true&hide_border=true&bg_color=fff0f6&color=9b6bce&line=f28b82&point=9b6bce&area_color=fce7f3)
+
+
+---
+
+<div align="center">
+
+## ✨ Fun Quote of the Day  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/estefaniamarmolejo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%239b6bce.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://estefaniams-han.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23f28b82.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:esmarmolejosa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23ff69b4.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### 💖 Thanks for stopping by!  
+
+![Profile Views](https://komarev.com/ghpvc/?username=estefaniams-han&label=Profile%20views&color=ff69b4&style=flat)
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV0dnZhMDhqNWkzMWRvZDN5dG10MXVtaXVvZWY5a21kMXNkODZkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FnGJfc18tDDHy/giphy.gif" width="400" />
+</div>
+
+
+</div>
