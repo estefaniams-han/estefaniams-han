@@ -111,7 +111,7 @@ Hi! I’m **Estefania Marmolejo** — but everyone calls me **Tefi** 💕
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/estefaniamarmolejo/" target="_blank">
+  <a href="https://www.linkedin.com/in/estefania-marmolejo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%239b6bce.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://estefaniams-han.github.io/" target="_blank">
