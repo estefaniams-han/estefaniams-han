@@ -23,8 +23,8 @@ Hi! I’m **Estefania Marmolejo**...but everyone calls me **Tefi** 💕
 
 👩‍💻 *Computer Systems Engineer* turned into an **AI Engineer**  
 🌈 Passionate about **Applied AI**, **Machine Learning**, and **Cloud Tech**  
-📚 Currently preparing for a **Master’s**
-💡 Believer that tech can make the world a better place ✨  
+📚 Currently preparing for a **Master’s Degree**
+💡 Believer that tech can make the world a better place 
 
 </div>
 
@@ -34,7 +34,7 @@ Hi! I’m **Estefania Marmolejo**...but everyone calls me **Tefi** 💕
 
 - 🤖 **AI & ML** → building LLM-powered apps, experimenting with models  
 - ☁️ **Cloud Tech** → Azure ☁️ AWS ☁️ GCP  
-- 🧩 **Data + AI Pipelines** → scalable, robust, fun-to-build 💜  
+- 🧩 **Data + AI Pipelines** → scalable, robust, fun-to-build  
 - 🎨 **Creative Tech** → blending code with art (design, drawing, music)  
 
 ---
