@@ -23,7 +23,7 @@ Hi! I’m **Estefania Marmolejo**...but everyone calls me **Tefi** 💕
 
 👩‍💻 *Computer Systems Engineer* turned into an **AI Engineer**  
 🌈 Passionate about **Applied AI**, **Machine Learning**, and **Cloud Tech**  
-📚 Currently preparing for a **Master’s Degree**
+📚 Currently preparing for a **Master’s Degree**   
 💡 Believer that tech can make the world a better place 
 
 </div>
