@@ -19,7 +19,7 @@
 ![Love Code](https://img.shields.io/badge/💖-Love_Code-ff69b4?style=for-the-badge)   ![Coffee Powered](https://img.shields.io/badge/☕-Coffee_Powered-9b6bce?style=for-the-badge)  ![Always Learning](https://img.shields.io/badge/📚-Always_Learning-f28b82?style=for-the-badge)
 
 
-Hi! I’m **Estefania Marmolejo** — but everyone calls me **Tefi** 💕  
+Hi! I’m **Estefania Marmolejo**...but everyone calls me **Tefi** 💕  
 
 👩‍💻 *Computer Systems Engineer* turned into an **AI Engineer**  
 🌈 Passionate about **Applied AI**, **Machine Learning**, and **Cloud Tech**  
