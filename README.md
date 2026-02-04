@@ -23,8 +23,8 @@ Hi! I’m **Estefania Marmolejo** — but everyone calls me **Tefi** 💕
 
 👩‍💻 *Computer Systems Engineer* turned into an **AI Engineer**  
 🌈 Passionate about **Applied AI**, **Machine Learning**, and **Cloud Tech**  
-📚 Currently preparing for a **Master’s in Applied Artificial Intelligence**  
-💡 Believer that tech (and especially AI) can make the world a better place ✨  
+📚 Currently preparing for a **Master’s**
+💡 Believer that tech can make the world a better place ✨  
 
 </div>
 
@@ -55,7 +55,7 @@ Hi! I’m **Estefania Marmolejo** — but everyone calls me **Tefi** 💕
 🎸 Playing guitar (always down to jam!)  
 ✏️ Drawing + exploring creativity  
 🏃‍♀️ Running clears my mind  
-🌸 Lover of languages, cultures, and sparkly things ✨  
+🌸 Lover of languages, cultures, and sparkly things
 
 </div>
 
@@ -65,7 +65,24 @@ Hi! I’m **Estefania Marmolejo** — but everyone calls me **Tefi** 💕
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,azure,aws,gcp,postgres,mongodb,git,github,docker,vscode&perline=6" />
-</p>  
+</p>
+
+<p align="center"><i>Core backend, cloud & development tools</i></p>
+
+<br/>
+
+### 🤖📊 Data & AI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,kafka,sklearn,pytorch,tensorflow&perline=3" />
+</p>
+
+<p align="center">
+  <i>
+    Data Engineering · ETL Pipelines · Real-time Processing <br/>
+    Machine Learning · Generative AI · Applied AI · Decision Support Systems
+  </i>
+</p>
 
 ---
 
