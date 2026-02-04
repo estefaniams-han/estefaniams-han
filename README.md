@@ -69,35 +69,8 @@ Hi! I’m **Estefania Marmolejo** — but everyone calls me **Tefi** 💕
 
 ---
 
-# 📊 GitHub Stats  
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=estefaniams-han&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)<br/>  
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=estefaniams-han&theme=radical&hide_border=false&background=904e95&currStreakLabel=fff&sideLabels=fff)  
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=estefaniams-han&theme=radical&layout=compact&hide_border=false&bg_color=30,43cea2,185a9d&title_color=fff&text_color=fff)  
-
-</div>
-
----
-
 ## 🐍 Commit Snake  
 ![snake gif](https://github.com/estefaniams-han/estefaniams-han/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🏆 GitHub Trophies  
-
-![](https://github-profile-trophy.vercel.app/?username=estefaniams-han&theme=radical&no-frame=false&margin-w=8)
-
----
-
-## 📈 Activity Graph  
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=estefaniams-han&area=true&hide_border=true&bg_color=fff0f6&color=9b6bce&line=f28b82&point=9b6bce&area_color=fce7f3)
-
 
 ---
 
