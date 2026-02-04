@@ -71,10 +71,10 @@ Hi! I’m **Estefania Marmolejo** — but everyone calls me **Tefi** 💕
 
 <br/>
 
-### 🤖📊 Data & AI
+# 🤖📊 Data & AI
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,kafka,sklearn,pytorch,tensorflow&perline=3" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,kafka,sklearn,pytorch&perline=3" />
 </p>
 
 <p align="center">
