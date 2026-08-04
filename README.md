@@ -21,47 +21,47 @@
 
 Hi! I’m **Estefania Marmolejo**...but everyone calls me **Tefi** 💕  
 
-👩‍💻 *Computer Systems Engineer* turned into an **AI Engineer**  
-🌈 Passionate about **Applied AI**, **Machine Learning**, and **Cloud Tech**  
-📚 Currently preparing for a **Master’s Degree**   
-💡 Believer that tech can make the world a better place 
+*Computer Systems Engineer* turned into an **AI Engineer**  
+Passionate about **Applied AI**, **Machine Learning**, and **Cloud Tech**  
+Currently preparing for a **Master’s Degree**   
+Believer that tech can make the world a better place 
 
 </div>
 
 ---
 
-## 🌟 What I Love Playing With  
+## What I Love Playing With  
 
-- 🤖 **AI & ML** → building LLM-powered apps, experimenting with models  
-- ☁️ **Cloud Tech** → Azure ☁️ AWS ☁️ GCP  
-- 🧩 **Data + AI Pipelines** → scalable, robust, fun-to-build  
-- 🎨 **Creative Tech** → blending code with art (design, drawing, music)  
+- **AI & ML** → building LLM-powered apps, experimenting with models  
+- **Cloud Tech** → Azure ☁️ AWS ☁️ GCP  
+- **Data + AI Pipelines** → scalable, robust, fun-to-build  
+- **Creative Tech** → blending code with art (design, drawing, music)  
 
 ---
 
-## 🎯 Main Focus Areas  
+## Main Focus Areas  
 
-- 🤖 Artificial Intelligence & Machine Learning  
-- 📊 Data Engineering + MLOps  
-- ☁️ Cloud & System Architecture  
-- 🧠 Applied AI in **health & social good**  
+- Artificial Intelligence & Machine Learning  
+- Data Engineering + MLOps  
+- Cloud & System Architecture  
+- Applied AI in **health & social good**  
 
 ---
 
 <div align="center">
 
-# 🎨 Outside the Code  
+# Outside the Code  
 
-🎸 Playing guitar (always down to jam!)  
-✏️ Drawing + exploring creativity  
-🏃‍♀️ Running clears my mind  
-🌸 Lover of languages, cultures, and sparkly things
+Playing guitar (always down to jam!)  
+Drawing + exploring creativity  
+Running clears my mind  
+Lover of languages, cultures, and sparkly things
 
 </div>
 
 ---
 
-# 💻 Tech Stack  
+# Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,azure,aws,gcp,postgres,mongodb,git,github,docker,vscode&perline=6" />
@@ -71,7 +71,7 @@ Hi! I’m **Estefania Marmolejo**...but everyone calls me **Tefi** 💕
 
 <br/>
 
-# 🤖📊 Data & AI
+# Data & AI
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,kafka,sklearn,pytorch&perline=3" />
@@ -86,7 +86,7 @@ Hi! I’m **Estefania Marmolejo**...but everyone calls me **Tefi** 💕
 
 ---
 
-## 🐍 Commit Snake  
+## Commit Snake  
 ![snake gif](https://github.com/estefaniams-han/estefaniams-han/blob/output/github-contribution-grid-snake.svg)
 
 ---
@@ -98,7 +98,7 @@ Hi! I’m **Estefania Marmolejo**...but everyone calls me **Tefi** 💕
 
 ---
 
-## 🌐 Connect with Me  
+## Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/estefania-marmolejo/" target="_blank">
